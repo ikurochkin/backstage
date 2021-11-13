@@ -1,5 +1,14 @@
 # @backstage/codemods
 
+## 0.1.22
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-plugin-api@0.2.0
+  - @backstage/core-app-api@0.1.21
+  - @backstage/core-components@0.7.4
+
 ## 0.1.21
 
 ### Patch Changes

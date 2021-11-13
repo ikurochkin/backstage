@@ -1,5 +1,11 @@
 # @backstage/catalog-client
 
+## 0.5.2
+
+### Patch Changes
+
+- 3bf2238187: Update to the right version of @backstage/errors
+
 ## 0.5.1
 
 ### Patch Changes

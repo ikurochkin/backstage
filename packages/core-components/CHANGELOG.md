@@ -1,5 +1,12 @@
 # @backstage/core-components
 
+## 0.7.4
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-plugin-api@0.2.0
+
 ## 0.7.3
 
 ### Patch Changes
